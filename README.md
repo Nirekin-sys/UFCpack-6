@@ -1,7 +1,7 @@
 # UFCpack #6
 ## Nirekin's (U)nciv (F)antasy (C)ivilizations pack #6
 ---
-![Preview](https://cdn.discordapp.com/attachments/556615339849416736/698993077288697926/UFCpack3.png)
+![Preview](https://cdn.discordapp.com/attachments/556615339849416736/702546074870743100/UFCpack6.png)
 ---
 This is a modpack for **Yairm's Unciv**, introducing 4 new unique civilizations with their own unique units and play styles.
 ## Civilizations:
